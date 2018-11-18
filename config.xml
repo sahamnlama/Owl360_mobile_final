@@ -8,9 +8,8 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
-    <preference name="phonegap-version" value="3.7.0" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="27" />
+
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
